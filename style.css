@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+body {
+  background-image: url("stuff/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
